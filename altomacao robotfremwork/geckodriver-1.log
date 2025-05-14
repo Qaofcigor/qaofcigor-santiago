@@ -1,0 +1,14 @@
+1744820813805	geckodriver	INFO	Listening on 127.0.0.1:53634
+1744820817144	mozrunner::runner	INFO	Running command: "C:\\Users\\igor santiago\\.cache\\selenium\\firefox\\win64\\137.0.2\\firefox.exe" "--marionette" "--remote- ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\IGORSA~1\\AppData\\Local\\Temp\\rust_mozprofile759MC7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1744820824117	Marionette	INFO	Marionette enabled
+1744820824903	Marionette	INFO	Listening on port 53749
+Read port: 53749
+WebDriver BiDi listening on ws://127.0.0.1:53635
+1744820825377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Calling WaitFlushedEvent::Run: is delayed: 2247
+1744820834154	Marionette	INFO	Stopped listening on port 53749
+Dynamically enable window occlusion 1
+1744820834217	CDP	WARN	Failed to remove undefined (Could not remove `undefined': could not parse path (NS_ERROR_FILE_UNRECOGNIZED_PATH))
